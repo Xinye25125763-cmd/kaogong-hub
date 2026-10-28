@@ -1,0 +1,9 @@
+[submodule "01-备考技能"]
+	path = 01-备考技能
+	url = https://github.com/Xinye25125763-cmd/kaogong-skill.git
+[submodule "02-行测真题"]
+	path = 02-行测真题
+	url = https://github.com/Xinye25125763-cmd/xingcezhenti.git
+[submodule "03-上岸教程"]
+	path = 03-上岸教程
+	url = https://github.com/Xinye25125763-cmd/developer2gwy.git
